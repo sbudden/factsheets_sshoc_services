@@ -6,7 +6,7 @@ date:       2021-01-19 12:00:00
 
 **Virtual Collection Registry**
 
-_Virtual Collection Challenges_
+***Virtual Collection Challenges***
 
 Any form of research relies on reproducibility and citability. Usually a scientific publication  will come with a bibliography based on persistent references. The same should apply for the documentation of the research data. This has become a topic of growing importance for researchers, as more and more research data becomes accessible online, gets re-used and cited. Furthermore, in the preparation of research data sets, the need for advanced ways to versionize, group and share data with collaborators within and outside one’s organisation has become paramount.
 
@@ -16,7 +16,7 @@ Since metadata is open and can be combined in an autonomous way, any researcher 
 
 The SSHOC Virtual Collection Registry offers a researcher-friendly way to organise research data references.
 
-_Use scenarios for researchers using the VCR_
+***Use scenarios for researchers using the VCR***
 
 A researcher may:
 
@@ -32,7 +32,7 @@ A researcher may:
 
 While it is impossible to create new data-sets/corpora for every occasion and purpose, VCs will allow the researcher to arrange and re-use existing resources and collections for new purposes. VCs are independent of any particular resource repository implementation, hence the aim is to facilitate their creation and use from as many resource repositories as possible. 
 
-_The SSHOC Virtual Collection Registry_
+***The SSHOC Virtual Collection Registry***
 
 A way for registering, accessing and discovering Virtual Collections by simplifying access for researchers is provided by the Virtual Collection Registry (VCR), currently operated by CLARIN, the European Research Infrastructure for Language Resources and Technology. Creation of VCs by researchers from the whole Social Sciences and Humanities (SSH) spectrum is possible, as the VCR metadata model is not limited to SSH only. 
 The basis for the creation of virtual collections is a joint domain of compatible metadata descriptions. Thus, virtual collections can boost the re-usability of existing resources and facilitate empirically sound e-Science in the arts and humanities. While researchers would also like to see all interoperability (formats, semantics) problems solved, so that they can work seamlessly on the virtual collection, the VCR model does not require such format interoperability challenges already solved.
